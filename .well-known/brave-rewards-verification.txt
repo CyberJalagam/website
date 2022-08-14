@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jaishnav.me
+Token: 3037cb8a81e46b9b661b764085fd2f0beca2ffb04df8fc736de114970a16e419
